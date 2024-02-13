@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "rawseelie@moimoi.re",
+    "password": "Manashik3210@",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,17 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100039655626737",
-    "100090485344448",
-    "100071369716625"
+    "100022653450378"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "nobi 🩷",
-  "prefix": ".",
+  "nickNameBot": "Magical 💦💦",
+  "prefix": "&",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
